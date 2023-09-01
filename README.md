@@ -22,13 +22,6 @@ Responsive Full Stack Reddit Clone - Works on Android, iOS & Web!
 - Responsive UI
 - Latest posts (instead of home, display this to guest users) 
 
-## YouTube
-I have created a tutorial based on this, do check it out on my channel [Rivaan Ranawat](https://youtu.be/B8Sx7wGiY-s) 
-
-<p align="center">
-  <img width="600" src="https://github.com/RivaanRanawat/flutter-reddit-clone/blob/master/screenshot.png" alt="Youtube Tutorial Image">
-</p>
-
 
 ## Installation
 After cloning this repository, migrate to ```flutter-reddit-clone``` folder. Then, follow the following steps:
@@ -52,4 +45,4 @@ Then run the following commands to run your app:
     
 ## Feedback
 
-If you have any feedback, please reach out to me at namanrivaan@gmail.com
+If you have any feedback, please reach out to me at kelyn.njeri@gmail.com
